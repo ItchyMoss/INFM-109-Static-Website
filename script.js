@@ -7,7 +7,7 @@ const messageElement = document.getElementById('message');
 const courses = [
     "INFM 109",
     "SDEV 120", 
-	"ENGL 111"
+	"ENGL 111",
 ];
 
 // Click event handler
